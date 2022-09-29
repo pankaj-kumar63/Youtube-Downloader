@@ -23,7 +23,7 @@ except:
 mp4files = yt.__getattribute__('MKV')
 
 # to set the name of the file
-yt.set_filename('GeeksforGeeks Video')
+yt.set_filename('youtube Video')
 
 # get the video with the extension and
 # resolution passed in the get() function
